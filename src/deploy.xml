@@ -1,0 +1,5 @@
+<deploy>
+  <files>
+    <path>~/FileCabinet/SuiteScripts/ic_bill_allocation_ue.js</path>
+  </files>
+</deploy>
